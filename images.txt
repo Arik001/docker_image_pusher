@@ -11,4 +11,4 @@ mysql:8.0
 #openjdk:8 
 openjdk:8
 #kafka:2.8.2 适合jdk1.8
-kafka:2.8
+bitnami/kafka:2.8.2

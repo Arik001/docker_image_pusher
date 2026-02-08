@@ -8,5 +8,5 @@ xhofe/alist:latest
 redis:5.0
 #mysql:8.0
 mysql:8.0
-#openjdk:8
+#openjdk:8 
 openjdk:8

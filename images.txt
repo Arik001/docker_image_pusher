@@ -13,6 +13,6 @@ openjdk:8
 #kafka:2.8.2 适合jdk1.8
 #bitnami/kafka:2.8.2
 #tdengine/tsdb:latest
-#tdengine/tsdb:3.4.0.2
+tdengine/tdengine:3.3.2.0
 #yandex/clickhouse-server
-yandex/clickhouse-server
+#yandex/clickhouse-server
